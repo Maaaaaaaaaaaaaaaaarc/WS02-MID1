@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,700,900');
+html, body{
+font-family: Arial, sans-serif;
+margin: 0;
+}
+header{
+background-color: #433254;
+padding: 98px;
+text-align: center;
+}
+h1{
+font-style: poppins;
+font-size: 45px;
+margin-top: 50px;
+
+color: #DCBDF6
+
+}
+header img{
+border-radius: 175px;
+width: 300px;
+border: 9px solid #98FB97;
+
+}
+ol{
+  text-align: left;
+}
+.content{
+letter-spacing: 1px;
+max-width: 900px;
+margin: 0 auto;
+color: #433254;
+font-size: 20px;
+
+}
+.content h2{
+    text-align: center;
+}
+img.big-image{
+
+max-width: 100%;
+}
+img.darwin{
+  border-radius: 175px;
+  width: 300px;
+  border: 11px solid #48BBDC;
+}
+p.cap3on{
+font-size: 20px;
+text-align: center;
+color: rgb(83, 46, 90);
+font-style: italic;
+}
+.image-section {
+  text-align: center;
+  padding: 2rem 0;
+}
+.image-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: #5a456e;
+}
+.rounded-image-container {
+  flex: 1;
+  padding: 0 1rem;
+  text-align: center;
+}
+.action-image {
+  width: 200px; 
+  height: 200px;
+  border-radius: 10%;
+}
+.rounded-image-container {
+  flex: 1;
+  padding: 0 1rem;
+  text-align: center;
+  font-size: 2rem;
+}
+
+  
+
+.rounded-image {
+  border-radius: 50%;
+  max-width: 100%;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  
+}
+.image-caption {
+  font-size: 1rem;
+  color: #812875;
+  margin-top: 0.5rem;
+
+}
+ul{
+list-style: none;
+padding: 0;
+margin: 0;
+}
+a{
+  text-decoration: none;
+  color: #433254;
+}
+footer{
+margin-top: 20px;
+padding: 40px 20px;
+background-color: #937bac;
+}
+footer ul{
+text-align: center;
+
+}
+footer ul li{
+display: inline-block;
+margin: 0 5px;
+color: rgb(60, 14, 82);
+}
